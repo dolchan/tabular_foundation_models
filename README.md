@@ -10,3 +10,8 @@
    - https://arxiv.org/abs/2406.12031
 - (2025) TabICL: A Tabular Foundation Model for In-Context Learning on Large Data
    - https://arxiv.org/abs/2502.05564
+- (2024) Why Tabular Foundation Models Should Be a Research Priority
+   - https://arxiv.org/html/2405.01147v1
+- (2024,2025) TabDPT: Scaling Tabular Foundation Models
+   - https://openreview.net/forum?id=FDMlGhExFp
+ 
