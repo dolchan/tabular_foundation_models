@@ -13,5 +13,5 @@
 - (2024) Why Tabular Foundation Models Should Be a Research Priority
    - https://arxiv.org/html/2405.01147v1
 - (2024,2025) TabDPT: Scaling Tabular Foundation Models
-   - https://openreview.net/forum?id=FDMlGhExFp
+   - https://arxiv.org/abs/2410.18164
  
