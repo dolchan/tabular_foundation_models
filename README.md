@@ -5,6 +5,7 @@
 - (2021, 2024) Prior-data Fitted Networks (PFNs): https://arxiv.org/abs/2112.10510
 - (2022, 2023) Tabular PFN (TabPFN) v1
    - https://arxiv.org/abs/2207.01848
+   - https://openreview.net/forum?id=eu9fVjVasr4
 - (2022) Survey on In-Context Learning
    - https://arxiv.org/abs/2301.00234
 - TabPFN v2:
