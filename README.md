@@ -1,7 +1,9 @@
 # Foundation Models for Tabular Data
 
 ## Relevant Papers
-- (2021, 2024) Prior-data Fitted Networks (PFNs): https://arxiv.org/abs/2112.10510
+- (2021, 2024) Prior-data Fitted Networks (PFNs)
+   - https://arxiv.org/abs/2112.10510
+   - https://github.com/automl/PFNs
 - (2023) Statistical Foundations of Prior-Data Fitted Networks: https://arxiv.org/abs/2305.11097
 - (2022, 2023) Tabular PFN (TabPFN) v1
    - https://arxiv.org/abs/2207.01848
