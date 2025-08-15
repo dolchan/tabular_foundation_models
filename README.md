@@ -28,3 +28,6 @@
    - https://arxiv.org/abs/2406.05216
    - https://openreview.net/forum?id=4MkkNsAEmO (slides)
    - https://github.com/sebhaan/TabPFGen
+- HyperFast: Instant Classification for Tabular Data
+   - (AAAI 2024) https://arxiv.org/abs/2402.14335
+   - https://github.com/AI-sandbox/HyperFast
