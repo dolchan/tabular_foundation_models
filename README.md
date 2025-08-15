@@ -21,4 +21,5 @@
    - https://arxiv.org/html/2405.01147v1
 - (2024,2025) TabDPT: Scaling Tabular Foundation Models
    - https://arxiv.org/abs/2410.18164
- 
+- (2023) Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks
+   - https://arxiv.org/abs/2311.10609
