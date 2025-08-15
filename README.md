@@ -23,3 +23,5 @@
    - https://arxiv.org/abs/2410.18164
 - (2023) Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks
    - https://arxiv.org/abs/2311.10609
+- (2023) TabPFGen -- Tabular Data Generation with TabPFN
+   - https://arxiv.org/abs/2406.05216
